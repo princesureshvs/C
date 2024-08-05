@@ -5,8 +5,8 @@ void main()
 	int i=0,c=0;
 	printf("Enter the string:");
 	scanf("%[^\n]",s);
-	//logic
 
+	//logic
 	while(s[i])
 	{
 		if(s[i]=='a' || s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u')
